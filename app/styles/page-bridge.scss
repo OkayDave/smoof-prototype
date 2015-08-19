@@ -1,0 +1,29 @@
+.lg-container {
+}
+
+.page-bridge {
+  background-size: cover;
+  min-height: 385px;
+
+  .col-md-4 {
+    /*margin-right: 0px;*/
+    /*padding-right: 0px;*/
+  }
+
+  .trans-box {
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: $col-header-bg-transparent;
+    color: $col-header-fg;
+
+    blockquote {
+      padding: none;
+      border: none;
+      font-size: 24px;
+      font-style: italic;
+    }
+  }
+}
