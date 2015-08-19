@@ -9,6 +9,7 @@
       font-size: 75px;
       font-weight: 800;
       letter-spacing: -2px;
+      margin-top: 0;
     }
 
 
@@ -19,6 +20,24 @@
 
     a {
       color: $col-header-hl;
+    }
+  }
+
+
+  .blog-content {
+    
+    * {
+      margin-bottom: 25px;
+    }
+
+    h4 {
+      color: $col-body-inline-title;
+      font-style: italic;
+      font-size: 24px;
+    }
+
+    p {
+     font-size: 16px; 
     }
   }
 }
