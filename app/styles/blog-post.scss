@@ -1,0 +1,24 @@
+.blog-post {
+  .blog-title {
+    * {
+      margin-bottom: 25px;
+    }
+
+    h1 {
+      color: $col-body-hl;
+      font-size: 75px;
+      font-weight: 800;
+      letter-spacing: -2px;
+    }
+
+
+    p.byline {
+      font-size: 18px;
+      
+    }
+
+    a {
+      color: $col-header-hl;
+    }
+  }
+}
