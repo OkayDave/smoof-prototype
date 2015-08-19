@@ -1,16 +1,18 @@
 @import "bootstrap";
 @import "vars";
+@import "header";
 
 body {
   font-family: $font-common;
+  font-weight: 400;
 }
 
-.topbox {
-  background-color: $col-header-bg;
-  height: 600px;
-  color: $col-header-fg;
 
-  h2 {
 
-  }
-}
+
+
+
+
+
+
+

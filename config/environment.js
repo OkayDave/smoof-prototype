@@ -19,7 +19,7 @@ module.exports = function(environment) {
     },
 
     googleFonts: [
-      'Open+Sans:300,500,800',
+      'Open+Sans:300,400,800',
     ],
 
     contentSecurityPolicy: {
