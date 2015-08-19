@@ -16,7 +16,7 @@
   ul.top-nav {
     li {
       text-transform: uppercase; 
-      border-top: 5px solid $col-header-bg;
+      border-top: 3px solid $col-header-bg;
       padding-top: 60px;
       margin-right: 2px;
       font-size: 11px;
@@ -33,7 +33,7 @@
     }
 
     li:hover {
-      border-top: 5px solid $col-header-hl; 
+      border-top: 3px solid $col-header-hl; 
 
       a {
         text-decoration: none;
