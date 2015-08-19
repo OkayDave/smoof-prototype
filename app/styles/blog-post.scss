@@ -40,4 +40,23 @@
      font-size: 16px; 
     }
   }
+
+
+  .blog-navigation {
+    margin-top: 15px;
+    margin-bottom: 25px;
+
+    .blog-btn {
+      color: $col-body-hl;
+      text-transform: uppercase;
+      padding: 5px 20px 5px 20px;
+      font-size: 12px;
+    }
+
+    .blog-btn-bordered {
+      border-width: 1px;
+      border-style: solid;
+      border-color: $col-body-hl;
+    }
+  }
 }
